@@ -1,0 +1,14 @@
+body {
+	font-family: 'Inter', sans-serif;
+}
+
+a,
+svg {
+	text-decoration: none;
+	color: inherit;
+	transition-duration: 0.3s;
+}
+img {
+	cursor: pointer;
+	transform: matrix(10px);
+}
